@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProStockConstructora.Client", "ProStockConstructora\ProStockConstructora.Client\ProStockConstructora.Client.csproj", "{000446A5-2D55-0A61-D034-B4513C1F5D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProStockConstructora.Server", "ProStockConstructora\ProStockConstructora.Server\ProStockConstructora.Server.csproj", "{F86D82D5-DB43-E2CC-9592-A2F099C380B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000446A5-2D55-0A61-D034-B4513C1F5D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000446A5-2D55-0A61-D034-B4513C1F5D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000446A5-2D55-0A61-D034-B4513C1F5D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000446A5-2D55-0A61-D034-B4513C1F5D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86D82D5-DB43-E2CC-9592-A2F099C380B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86D82D5-DB43-E2CC-9592-A2F099C380B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86D82D5-DB43-E2CC-9592-A2F099C380B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86D82D5-DB43-E2CC-9592-A2F099C380B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91652617-F3F5-42F6-AC5A-3447A2B5966C}
+	EndGlobalSection
+EndGlobal

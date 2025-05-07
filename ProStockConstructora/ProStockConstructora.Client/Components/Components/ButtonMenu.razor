@@ -1,0 +1,23 @@
+﻿<NavLink class="btn-mio" href="@Url" Match="NavLinkMatch.All">
+    <div class="containerImg">
+        <img src="@Img" />
+    </div>
+    <div>
+        <h3>@ChildContent</h3>
+        <p>@Desc</p>
+    </div>
+</NavLink>
+
+@code {
+    [Parameter]
+    public string Url { get; set; }
+
+    [Parameter]
+    public string Img { get; set; }
+
+    [Parameter]
+    public string Desc { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

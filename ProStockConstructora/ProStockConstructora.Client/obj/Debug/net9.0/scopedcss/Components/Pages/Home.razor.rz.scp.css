@@ -1,0 +1,16 @@
+.Home[b-9l9mhy9tt0] {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
+
+@media screen and (max-width: 1300px) {
+    .Home[b-9l9mhy9tt0] {
+        flex-direction: row;
+        overflow-y: auto;
+        width: 80%;
+    }
+}

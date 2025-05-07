@@ -1,0 +1,4 @@
+C:\Users\matia\Documents\ProStockConstructora\AC#Legustelpito\ProStockConstructora\ProStockConstructora\ProStockConstructora.Server\wwwroot\appsettings.json
+C:\Users\matia\Documents\ProStockConstructora\AC#Legustelpito\ProStockConstructora\ProStockConstructora\ProStockConstructora.Server\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

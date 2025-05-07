@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+.pagedivided {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+/* Button menu */
+.btn-mio {
+    background-color: white;
+    width: 45%;
+    margin: 2.5% 2.5%;
+    height: 300px;
+    border-radius: 20px;
+    display: flex;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    border: none;
+    box-shadow: 0 0 10px gray;
+    transition: transform 0.3s ease;
+    text-decoration: none;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+@media screen and (max-width: 1300px) {
+    .btn-mio {
+        width: 80%;
+        height: 300px;
+    }
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|c:\\users\\matia\\documents\\prostockconstructora\\ac#legustelpito\\prostockconstructora\\prostockconstructora\\prostockconstructora.client\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|solutionrelative:prostockconstructora\\prostockconstructora.client\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|c:\\users\\matia\\documents\\prostockconstructora\\ac#legustelpito\\prostockconstructora\\prostockconstructora\\prostockconstructora.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|solutionrelative:prostockconstructora\\prostockconstructora.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|c:\\users\\matia\\documents\\prostockconstructora\\ac#legustelpito\\prostockconstructora\\prostockconstructora\\prostockconstructora.client\\components\\components\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|solutionrelative:prostockconstructora\\prostockconstructora.client\\components\\components\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|c:\\users\\matia\\documents\\prostockconstructora\\ac#legustelpito\\prostockconstructora\\prostockconstructora\\prostockconstructora.client\\components\\components\\buttonmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{000446A5-2D55-0A61-D034-B4513C1F5D12}|ProStockConstructora\\ProStockConstructora.Client\\ProStockConstructora.Client.csproj|solutionrelative:prostockconstructora\\prostockconstructora.client\\components\\components\\buttonmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "ProStockConstructora\\ProStockConstructora.Client\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\wwwroot\\app.css",
+              "RelativeToolTip": "ProStockConstructora\\ProStockConstructora.Client\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-07T21:20:54.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ProStockConstructora\\ProStockConstructora.Client\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ProStockConstructora\\ProStockConstructora.Client\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:20:35.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sidebar.razor.css",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\Sidebar.razor.css",
+              "RelativeDocumentMoniker": "ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\Sidebar.razor.css",
+              "ToolTip": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\Sidebar.razor.css",
+              "RelativeToolTip": "ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\Sidebar.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-07T21:16:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonMenu.razor",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\ButtonMenu.razor",
+              "RelativeDocumentMoniker": "ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\ButtonMenu.razor",
+              "ToolTip": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\ButtonMenu.razor",
+              "RelativeToolTip": "ProStockConstructora\\ProStockConstructora.Client\\Components\\Components\\ButtonMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T20:29:30.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

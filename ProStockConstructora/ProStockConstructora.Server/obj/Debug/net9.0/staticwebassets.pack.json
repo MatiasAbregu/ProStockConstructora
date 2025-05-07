@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Server\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Server\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\matia\\Documents\\ProStockConstructora\\AC#Legustelpito\\ProStockConstructora\\ProStockConstructora\\ProStockConstructora.Server\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProStockConstructora.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProStockConstructora.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProStockConstructora.Server.props",
+      "PackagePath": "build\\ProStockConstructora.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProStockConstructora.Server.props",
+      "PackagePath": "buildMultiTargeting\\ProStockConstructora.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProStockConstructora.Server.props",
+      "PackagePath": "buildTransitive\\ProStockConstructora.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
